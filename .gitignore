@@ -3,3 +3,4 @@ __pycache__/
 model.joblib
 .pytest_cache/
 *.egg-info/
+predictions_log.csv
